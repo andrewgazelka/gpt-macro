@@ -1,0 +1,12 @@
+[package]
+name = "gpt-macro"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Andrew Gazelka <andrew.gazelka@gmail.com>"]
+description = "Macros leveraging GPT"
+repository = "https://github.com/andrewgazelka/gpt-macro"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
